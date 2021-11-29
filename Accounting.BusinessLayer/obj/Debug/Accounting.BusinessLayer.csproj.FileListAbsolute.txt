@@ -1,0 +1,14 @@
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.BusinessLayer.dll
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.BusinessLayer.pdb
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\obj\Debug\Accounting.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\obj\Debug\Accounting.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\obj\Debug\Accounting.BusinessLayer.dll
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\obj\Debug\Accounting.BusinessLayer.pdb
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.ViewModel.dll
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\bin\Debug\Accounting.ViewModel.pdb
+C:\Users\pc\Source\Repos\Accounting\Accounting.BusinessLayer\obj\Debug\Accounting.BusinessLayer.csproj.CopyComplete
